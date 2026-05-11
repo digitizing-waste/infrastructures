@@ -1,0 +1,456 @@
+[
+  {
+    "id": 1,
+    "name": "El Borma",
+    "type": "oil field",
+    "color": "#8B4513",
+    "status": null,
+    "notes": "",
+    "entities": [
+      "Sahara Comfort",
+      "SAIPEM",
+      "STEG",
+      "Kilani Construction Firm"
+    ],
+    "location_label": "El Borma",
+    "lat": 31.5951,
+    "lon": 9.1597,
+    "is_pipeline": false,
+    "coordinates": null,
+    "actions_count": 3,
+    "events_count": 0,
+    "licenses_count": 2
+  },
+  {
+    "id": 34,
+    "name": "El Borma-Skhira - Pipeline",
+    "type": "pipeline",
+    "color": "#4ECDC4",
+    "status": null,
+    "notes": null,
+    "entities": [],
+    "location_label": "El Borma, Skhira",
+    "lat": 32.94635,
+    "lon": 9.6174,
+    "is_pipeline": true,
+    "coordinates": [
+      [
+        9.1597,
+        31.5951
+      ],
+      [
+        10.0751,
+        34.2976
+      ]
+    ],
+    "actions_count": 0,
+    "events_count": 0,
+    "licenses_count": 0
+  },
+  {
+    "id": 68,
+    "name": "Gela - Refinery",
+    "type": "refinery",
+    "color": "#FF6B35",
+    "status": null,
+    "notes": null,
+    "entities": [],
+    "location_label": "Gela",
+    "lat": 37.0738,
+    "lon": 14.2411,
+    "is_pipeline": false,
+    "coordinates": null,
+    "actions_count": 0,
+    "events_count": 0,
+    "licenses_count": 0
+  },
+  {
+    "id": 69,
+    "name": "Skhira - Refinery",
+    "type": "refinery",
+    "color": "#FF6B35",
+    "status": null,
+    "notes": null,
+    "entities": [],
+    "location_label": "Skhira",
+    "lat": 34.2976,
+    "lon": 10.0751,
+    "is_pipeline": false,
+    "coordinates": null,
+    "actions_count": 0,
+    "events_count": 0,
+    "licenses_count": 0
+  },
+  {
+    "id": 107,
+    "name": "Zarzaitine",
+    "type": "oil field",
+    "color": "#8B4513",
+    "status": null,
+    "notes": "not info yet. probably discovered in 1958",
+    "entities": [],
+    "location_label": "Zarzaitine",
+    "lat": 28.0867,
+    "lon": 9.7855,
+    "is_pipeline": false,
+    "coordinates": null,
+    "actions_count": 0,
+    "events_count": 0,
+    "licenses_count": 1
+  },
+  {
+    "id": 111,
+    "name": "Edjeleh-Gabes",
+    "type": "pipeline",
+    "color": "#4ECDC4",
+    "status": null,
+    "notes": "See https://journals.openedition.org/anneemaghreb/3647?hcb=1&lang=en&utm_source=chatgpt.com",
+    "entities": [],
+    "location_label": "Edjeleh, Gabes",
+    "lat": 30.80625,
+    "lon": 9.98925,
+    "is_pipeline": true,
+    "coordinates": [
+      [
+        9.881,
+        27.7244
+      ],
+      [
+        10.0975,
+        33.8881
+      ]
+    ],
+    "actions_count": 0,
+    "events_count": 0,
+    "licenses_count": 0
+  },
+  {
+    "id": 112,
+    "name": "Hassi Messaoud - field",
+    "type": "oil field",
+    "color": "#8B4513",
+    "status": "active",
+    "notes": null,
+    "entities": [
+      "CFPA",
+      "SN REPAL",
+      "SONATRACH"
+    ],
+    "location_label": "Hassi Messaoud",
+    "lat": 32.0,
+    "lon": 6.0,
+    "is_pipeline": false,
+    "coordinates": null,
+    "actions_count": 3,
+    "events_count": 0,
+    "licenses_count": 0
+  },
+  {
+    "id": 113,
+    "name": "Hassi R'Mel",
+    "type": "natural gas deposit",
+    "color": "#95E1D3",
+    "status": null,
+    "notes": null,
+    "entities": [
+      "SAEP",
+      "S.N. REPAL",
+      "CFPA",
+      "SOTHRA"
+    ],
+    "location_label": "Hassi R'Mel",
+    "lat": 33.0,
+    "lon": 3.0,
+    "is_pipeline": false,
+    "coordinates": null,
+    "actions_count": 2,
+    "events_count": 0,
+    "licenses_count": 0
+  },
+  {
+    "id": 114,
+    "name": "Haoudh-El Hamra-Bejaia Pipeline",
+    "type": "pipeline",
+    "color": "#4ECDC4",
+    "status": null,
+    "notes": null,
+    "entities": [],
+    "location_label": "Haoudh el Hamra, Bejaia",
+    "lat": 34.5,
+    "lon": 5.5,
+    "is_pipeline": true,
+    "coordinates": [
+      [
+        6,
+        32
+      ],
+      [
+        5,
+        37
+      ]
+    ],
+    "actions_count": 1,
+    "events_count": 0,
+    "licenses_count": 0
+  },
+  {
+    "id": 116,
+    "name": "Oasis Military Experiments Centre",
+    "type": "nuclear center",
+    "color": "#FFDA33",
+    "status": null,
+    "notes": null,
+    "entities": [],
+    "location_label": "In Ekker",
+    "lat": 24.0225,
+    "lon": 5.0813,
+    "is_pipeline": false,
+    "coordinates": null,
+    "actions_count": 0,
+    "events_count": 0,
+    "licenses_count": 0
+  },
+  {
+    "id": 166,
+    "name": "Methane pipeline",
+    "type": "pipeline",
+    "color": "#4ECDC4",
+    "status": null,
+    "notes": null,
+    "entities": [],
+    "location_label": "Gagliano, Gela",
+    "lat": 38.45955,
+    "lon": 16.30325,
+    "is_pipeline": true,
+    "coordinates": [
+      [
+        18.3654,
+        39.8453
+      ],
+      [
+        14.2411,
+        37.0738
+      ]
+    ],
+    "actions_count": 0,
+    "events_count": 0,
+    "licenses_count": 0
+  },
+  {
+    "id": 169,
+    "name": "Djebel Douleb",
+    "type": "oil field",
+    "color": "#8B4513",
+    "status": null,
+    "notes": "30% SEREPT 70% ETAP",
+    "entities": [
+      "SEREPT",
+      "ETAP "
+    ],
+    "location_label": "Djebel Douleb",
+    "lat": 35.3822,
+    "lon": 8.8992,
+    "is_pipeline": false,
+    "coordinates": null,
+    "actions_count": 3,
+    "events_count": 0,
+    "licenses_count": 1
+  },
+  {
+    "id": 170,
+    "name": "Djebel Semmama",
+    "type": "oil field",
+    "color": "#8B4513",
+    "status": null,
+    "notes": null,
+    "entities": [
+      "SEREPT",
+      "ETAP "
+    ],
+    "location_label": "Djebel Semmama",
+    "lat": 35.318,
+    "lon": 8.8523,
+    "is_pipeline": false,
+    "coordinates": null,
+    "actions_count": 2,
+    "events_count": 0,
+    "licenses_count": 1
+  },
+  {
+    "id": 171,
+    "name": "Djbel Tamesmida",
+    "type": "oil field",
+    "color": "#8B4513",
+    "status": null,
+    "notes": null,
+    "entities": [
+      "SEREPT",
+      "ETAP "
+    ],
+    "location_label": "Djebel Tamesmida",
+    "lat": 35.0999,
+    "lon": 8.3816,
+    "is_pipeline": false,
+    "coordinates": null,
+    "actions_count": 3,
+    "events_count": 0,
+    "licenses_count": 1
+  },
+  {
+    "id": 173,
+    "name": "Sidi Litaiem - Skhirra Pipeline",
+    "type": "pipeline",
+    "color": "#4ECDC4",
+    "status": null,
+    "notes": null,
+    "entities": [],
+    "location_label": "Skhira",
+    "lat": 34.2976,
+    "lon": 10.0751,
+    "is_pipeline": true,
+    "coordinates": [
+      [
+        10.0751,
+        34.2976
+      ]
+    ],
+    "actions_count": 0,
+    "events_count": 0,
+    "licenses_count": 1
+  },
+  {
+    "id": 179,
+    "name": "Arzew Gas liquefaction plant",
+    "type": "Gas liquefaction plant",
+    "color": "#FF8B94",
+    "status": null,
+    "notes": null,
+    "entities": [],
+    "location_label": "Arzew",
+    "lat": 35.8541,
+    "lon": 0.3097,
+    "is_pipeline": false,
+    "coordinates": null,
+    "actions_count": 1,
+    "events_count": 0,
+    "licenses_count": 0
+  },
+  {
+    "id": 180,
+    "name": "Hassi R'Mel gas pipeline (1)",
+    "type": "pipeline",
+    "color": "#4ECDC4",
+    "status": "active",
+    "notes": null,
+    "entities": [
+      "SOTHRA"
+    ],
+    "location_label": "Hassi R'Mel, Arzew",
+    "lat": 34.42705,
+    "lon": 1.65485,
+    "is_pipeline": true,
+    "coordinates": [
+      [
+        3,
+        33
+      ],
+      [
+        0.3097,
+        35.8541
+      ]
+    ],
+    "actions_count": 1,
+    "events_count": 0,
+    "licenses_count": 0
+  },
+  {
+    "id": 182,
+    "name": "Hassi R'Mel gas pipeline (2)",
+    "type": "pipeline",
+    "color": "#4ECDC4",
+    "status": null,
+    "notes": null,
+    "entities": [
+      "SOTHRA"
+    ],
+    "location_label": "Hassi R'Mel, Skikda",
+    "lat": 34.93105,
+    "lon": 4.95275,
+    "is_pipeline": true,
+    "coordinates": [
+      [
+        3,
+        33
+      ],
+      [
+        6.9055,
+        36.8621
+      ]
+    ],
+    "actions_count": 0,
+    "events_count": 0,
+    "licenses_count": 0
+  },
+  {
+    "id": 183,
+    "name": "Hassi Messaoud - Ohanet oil pipeline",
+    "type": "pipeline",
+    "color": "#4ECDC4",
+    "status": null,
+    "notes": null,
+    "entities": [],
+    "location_label": "Hassi Messaoud, Ohanet",
+    "lat": 30.33965,
+    "lon": 7.4369,
+    "is_pipeline": true,
+    "coordinates": [
+      [
+        6,
+        32
+      ],
+      [
+        8.8738,
+        28.6793
+      ]
+    ],
+    "actions_count": 1,
+    "events_count": 0,
+    "licenses_count": 0
+  },
+  {
+    "id": 184,
+    "name": "Skikda Gas liquefaction plant",
+    "type": "Gas liquefaction plant",
+    "color": "#FF8B94",
+    "status": "active",
+    "notes": null,
+    "entities": [
+      "SONELGAZ"
+    ],
+    "location_label": "Skikda",
+    "lat": 36.8621,
+    "lon": 6.9055,
+    "is_pipeline": false,
+    "coordinates": null,
+    "actions_count": 0,
+    "events_count": 0,
+    "licenses_count": 0
+  },
+  {
+    "id": 187,
+    "name": "Pumping Station- Haoudh el Hamra",
+    "type": "pumping station",
+    "color": "#B4A7D6",
+    "status": null,
+    "notes": null,
+    "entities": [],
+    "location_label": "Haoudh el Hamra",
+    "lat": 32.0,
+    "lon": 6.0,
+    "is_pipeline": false,
+    "coordinates": null,
+    "actions_count": 0,
+    "events_count": 0,
+    "licenses_count": 0
+  }
+]
